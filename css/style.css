@@ -610,6 +610,10 @@
 					}
 		.Contact{
 			text-align: center;
+		}
+
+		.row{
+			margin: auto;
 		}	
 
 		ul.tabular {
