@@ -612,13 +612,17 @@
 			text-align: center;
 		}
 
-		.row{
+		.ContactInfo{
 			margin: auto;
 		}	
 
 		ul.tabular {
 			list-style: outside none none;
 			padding: 0px;
+			margin: auto;
+		}
+		.ContactText{
+			text-align: center;
 		}
 
 			ul.tabular li {
@@ -626,7 +630,7 @@
 				line-height: 1.75em;
 				margin: 1.5em 0px 0px;
 				text-align: center;
-				padding-left: 7em;
+				/*padding-left: 7em;*/
 				padding-top: 12px;
 				position: relative;
 			}
@@ -636,14 +640,14 @@
 					margin-top: 0;
 				}
 
-				ul.tabular li h3 {
+				/*ul.tabular li h3 {
 					left: 0px;
 					position: absolute;
-					text-align: center;
+					
 					top: 12px;
 					vertical-align: top;
 					width: 1em;
-				}
+				}*/
 
 	dl {
 		margin: 0 0 2em 0;
@@ -950,7 +954,7 @@
 						vertical-align: middle;
 					}
 
-		#header .container {
+		.container {
 			
 			margin: auto;
 		}
@@ -962,6 +966,7 @@
 			#header .container nav {
 				right: 0;
 			}*/
+
 
 /* Banner */
 
