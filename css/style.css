@@ -99,9 +99,9 @@
 		margin: 2em 0;
 	}
 
-		hr.major {
+		/*hr.major {
 			margin: 3em 0;
-		}
+		}*/
 
 	blockquote {
 		border-left: solid 4px rgba(144, 144, 144, 0.25);
@@ -187,9 +187,9 @@
 		}
 
 		header.major p {
-			border-top: medium double rgba(144, 144, 144, 0.25);
-			display: inline-block;
-			padding: 2em 2em 0 2em;
+			/*border-top: medium double rgba(144, 144, 144, 0.25);*/
+			/*display: inline-block;*/
+			/*padding: 2em 2em 0 2em;*/
 		}
 
 /* Form */
